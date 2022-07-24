@@ -27,15 +27,20 @@ Output 2:
 
 //Solution:-
 
+/*
+
+Approach:- Here we have to think how we can cover all elements in array
+Video Link:- https://www.youtube.com/watch?v=8dJ1OLtXNvQ
+
+*/
+
 public class Solution {
     public int solve(int[] A, int B) {
-        
-        int n = A.length;
+        int n = A.length; 
         int curr_sum = 0;
         for(int i=0;i<B;i++){
             curr_sum += A[i];
         }
-        
         int max_sum = curr_sum;
         
         int inc = n-1, exc = B-1;
