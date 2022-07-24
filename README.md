@@ -15,7 +15,7 @@ My implementation of some popular data structures and algorithms and interview q
 
 | 			Topic/Question			                                            |	Code in java                           
 |-----------------------------------|:------------------:|
-|Max Min 	   |[java](Array/Max Min.java)|
+|Max Min 	   |[java](Array/MaxMin.java)|
 |Maximum Sum Triplet 	   |[java](Array/MaximumSumTriplet.java)|
 |Minimum Lights To Activate 	   |[java](Array/MinimumLightsToActivate.java)|
 |Partition 	   |[java](Array/Partitions.java)|
