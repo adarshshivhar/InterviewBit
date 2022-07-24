@@ -15,12 +15,12 @@ My implementation of some popular data structures and algorithms and interview q
 
 | 			Topic/Question			                                            |	Code in java                           
 |-----------------------------------|:------------------:|
-|Max Min 	   |[java](Array/MaxMin.java)|
-|Maximum Sum Triplet 	   |[java](Array/MaximumSumTriplet.java)|
-|Minimum Lights To Activate 	   |[java](Array/MinimumLightsToActivate.java)|
-|Partition 	   |[java](Array/Partitions.java)|
+|Max Min 	   |[java](Arrays/MaxMin.java)|
+|Maximum Sum Triplet 	   |[java](Arrays/MaximumSumTriplet.java)|
+|Minimum Lights To Activate 	   |[java](Arrays/MinimumLightsToActivate.java)|
+|Partition 	   |[java](Arrays/Partitions.java)|
 |Flip 	   |[java](Array/Flip.java )|
-|Maximum Absolute Difference 	   |[java](Array/MaximumAbsoluteDifference.java )|
+|Maximum Absolute Difference 	   |[java](Arrays/MaximumAbsoluteDifference.java )|
 
 
 
