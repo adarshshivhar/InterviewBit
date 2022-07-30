@@ -20,6 +20,7 @@ My implementation of some popular data structures and algorithms and interview q
 |Chips Factory 	 |[java](Arrays/ChipsFactory.java)|
 |Greater than All |[java](Arrays/GreaterThanAll.java)|
 |Wave Array |[java](Arrays/WaveArray.java)|
+|Noble Integer |[java](Arrays/NobleInteger.java)|
 
 
 
